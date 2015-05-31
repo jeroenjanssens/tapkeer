@@ -1,0 +1,12 @@
+Package: tapkeer
+Type: Package
+Title: An R Interface to Tapkee, An Efficient Library For Dimensionality Reduction
+Version: 0.1
+Date: 2015-05-31
+Authors@R: person("Jeroen", "Janssens", email = "jeroen@jeroenjanssens.com",
+    role = c("aut", "cre"))
+Description: More about what it does (maybe more than one line)
+License: BSD-3
+LazyData: TRUE
+Imports:
+    dplyr
